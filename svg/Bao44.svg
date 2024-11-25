@@ -42,12 +42,21 @@
           border-radius: 50%;
           width: 240px;
           height: 240px;
-          animation: spinAround 15s linear 0s infinite alternate;
-          box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
+          animation: spinAround 30s linear 0s infinite alternate;
+
+          <!-- box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
                     -8px -8px 15px #000 inset,
                     2px 2px 25px #000 inset,
                     -45px -45px 25px RGBA(0,0,0, 0.5) inset, 
-                    25px 25px 45px RGBA(0,0,0, 0.45) inset;
+                    25px 25px 45px RGBA(0,0,0, 0.45) inset; -->
+
+          box-shadow: 
+              0 0 15px rgba(255, 255, 255, 0.1),
+              -6px -6px 10px rgba(0, 0, 0, 0.4) inset,
+              2px 2px 15px rgba(0, 0, 0, 0.4) inset,
+              -30px -30px 15px rgba(0, 0, 0, 0.5) inset,
+              15px 15px 30px rgba(0, 0, 0, 0.4) inset;
+
           position: absolute;
           top: 50%;
           left: 80%;
