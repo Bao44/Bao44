@@ -26,6 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Supabase-282C34?logo=Supabase&logoColor=006239" alt="Supabase logo" title="Supabase" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=white" alt="Expo" title="Expo" height="25" /></span>
