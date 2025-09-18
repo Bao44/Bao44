@@ -34,6 +34,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Supabase-282C34?logo=Supabase&logoColor=006239" alt="Supabase logo" title="Supabase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4479A1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
