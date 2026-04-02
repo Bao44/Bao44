@@ -14,9 +14,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007ACC" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007ACC" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NextJs-282C34?logo=next.js" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js" alt="Nextjs logo" title="Nextjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
@@ -24,7 +24,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=#000000" alt="Express logo" title="Express" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=#000000" alt="Express logo" title="Express" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -42,17 +42,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=0E83CD" alt="MariaDB" title="MariaDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" alt="Prisma" title="Prisma" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=white" alt="Expo" title="Expo" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=near&logoColor=007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Cursor-282C34?logo=Cursor" alt="Cursor" title="Cursor" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Intellij IDEA-282C34?logo=intellijidea=&logoColor=000000" alt="intellijidea" title="intellij IDEA" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#6DB33F" alt="Github logo" title="Guthub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#6DB33F" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=##FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github Copilot-282C34?logo=githubcopilot&logoColor=#6DB33F" alt="Github Copilot logo" title="Guthub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Github Copilot-282C34?logo=githubcopilot&logoColor=#6DB33F" alt="Github Copilot logo" title="Github" height="25" /></span>
 &nbsp;
 
 <br>
