@@ -61,19 +61,18 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center">
   <table>
     <tr>
       <td valign="top">
         <a href="https://github.com/Bao44" title="Bao44">
-          <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bao44&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Bao44 top languages" />
+          <img width="315" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Bao44&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Bao44 top languages" />
         </a>
       </td>
-      <td valign="top">
+      <td valign="center">
         <a href="https://github.com/Bao44" title="Bao44">
-          <img width="434" src="https://github-readme-stats.vercel.app/api?username=Bao44&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="Bao44 GitHub stats" />
+          <img width="434" src="https://readme-stats-fast.vercel.app/api?username=Bao44&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="Bao44 GitHub stats" />
         </a>
       </td>
     </tr>
